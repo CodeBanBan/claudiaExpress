@@ -1,6 +1,6 @@
 {
   "name": "codebanban-claudiaexpress",
-  "version": "0.4",
+  "version": "0.4.1",
   "description": "Middleware and more scaleable routing support for claudia API builder",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/CodeBanBan/claudiaExpress.git"
   },
-  "author": "Daniel Vincze <vinczedani22@gmail.com>",
+  "author": "CodeBanBan <codebanban@gmail.com>",
   "license": "MIT",
   "keywords": ["claudia", "claudiajs", "claudiaexpress", "express", "middleware", "router"],
   "bugs": {
