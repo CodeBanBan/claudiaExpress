@@ -1,3 +1,5 @@
+# *This Fork project claudiaExpress to add a bit feature
+
 # claudiaExpress
 Express like middleware support for claudia API builder. The module is designed for developers who come from the express framework but want to try out AWS Lambda. ClaudiaJS with Claudia API builder is an easy way to start.
 
@@ -68,9 +70,10 @@ Runs all the mocha tests in the `./test` folder.
 - add istanbul and more tests for 100% coverage
 - upgrade router so it can be used either with the middlewares feature, or the classic claudiaJS handler
 
-Developer:
-
+Original Developer:
 Daniel Vincze@
 Coding Sans Zrt.
-
 http://codingsans.com/
+
+*Fork Developer:
+CodeBanBan
