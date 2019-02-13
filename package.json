@@ -1,6 +1,6 @@
 {
   "name": "codebanban-claudiaexpress",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Middleware and more scaleable routing support for claudia API builder",
   "main": "index.js",
   "scripts": {
